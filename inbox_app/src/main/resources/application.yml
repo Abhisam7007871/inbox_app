@@ -11,16 +11,16 @@ spring:
       keyspace-name: main
       username: FdCASiicRQzrBwldBFZEyapx
       password: B6NZkaNNpoWgZ+yQ3h2fNCFrqL0oJZQCqM5zD3kaiM5gBuLKtZZCoXbROxuuDarF.u-rQpDb5_HAwnyFWwsKbB9g114b072pj0wC7fZPKLYayFhb31JubqZ+u.kF36ff
-      schema-action: recreate_drop_unused
+      schema-action: recreate-drop-unused
       request:
         timeout:  10s
       connection:
         connect-timeout: 10s
         init-query-timeout: 10s
   application:
-    name: inbox-appication
+    name: inbox-application
 
-    datasax.astra:
+    datastax.astra:
       secure-connect-bundle: connect.zip
 
     astra:

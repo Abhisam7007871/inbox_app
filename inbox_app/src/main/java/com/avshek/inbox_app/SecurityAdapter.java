@@ -1,4 +1,4 @@
-package com.avshek.SpringGithubLoginApplication;
+package com.avshek.inbox_app;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpStatus;

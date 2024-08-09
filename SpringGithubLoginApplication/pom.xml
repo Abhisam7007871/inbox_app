@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.avshek</groupId>
-	<artifactId>SpringGithubLoginApplication</artifactId>
+	<artifactId>inbox_app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringGithubLoginApplication</name>
 	<description>Project for Spring Boot GithubLoginApplication</description>

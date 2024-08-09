@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SpringGithubLoginApplication/SpringGithubLoginApplication.iml" filepath="$PROJECT_DIR$/SpringGithubLoginApplication/SpringGithubLoginApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringGithubLoginApplication/inbox_app.iml" filepath="$PROJECT_DIR$/SpringGithubLoginApplication/inbox_app.iml" />
     </modules>
   </component>
 </project>

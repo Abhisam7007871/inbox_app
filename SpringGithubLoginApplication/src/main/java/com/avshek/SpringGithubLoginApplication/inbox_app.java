@@ -7,10 +7,10 @@ import org.springframework.security.oauth2.core.user.OAuth2User;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @SpringBootApplication
-public class SpringGithubLoginApplication {
+public class inbox_app {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringGithubLoginApplication.class, args);
+		SpringApplication.run(inbox_app.class, args);
 	}
 
 

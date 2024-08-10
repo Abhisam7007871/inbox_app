@@ -21,10 +21,9 @@ spring:
     name: inbox-application
 
     datastax.astra:
-      secure-connect-bundle: connect.zip
+      secure-connect-bundle: src/main/resource/secure-connect.zip
 
-    astra:
-      db:
+    astra.db:
         id: 57259b90-564f-4a7a-a819-b946e61acb05
         region: us-east-2
         keyspace: main
